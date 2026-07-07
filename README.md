@@ -1,4 +1,4 @@
-def flatten_list(nested_lis):
+def flatten_list(nested_lisT):
     flat = []
     for item in nested_list:
         if isinstance(item, list):
